@@ -16,7 +16,7 @@ const CusEditor = ({
     <div className="mt-5 w-full">
       <Editor
         onInit={(_evt, editor) => (editorRef.current = editor)}
-        apiKey="txlv2emt3xpnf7w825e60oifnw7o1iq6gs84a50eq6njash2"
+        apiKey="u9c7nnn3ahbnch7a4l4w16la1pq5ytvlszq73eicdx734i3s"
         init={{
           plugins: [
             "autolink",
